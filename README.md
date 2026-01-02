@@ -52,10 +52,12 @@ Here's a walkthrough of the dashboard in images:
 
 
 3. **State Maps**: Side-by-side for marriage (left) and divorce (right) in 2023 – darker colours mean higher rates.  
-   ![State Maps](images/state_maps.png)
+ <img width="999" height="269" alt="Screenshot 2026-01-02 at 11 37 21" src="https://github.com/user-attachments/assets/fd00eac9-6b92-4e7c-baf6-9e1f64a273ce" />
+
 
 4. **Top States Bar Chart**: Dual bars (green marriage, red divorce) for outliers like Nevada.  
-   ![Top States Bar](images/top_states_bar.png)
+  <img width="657" height="853" alt="image" src="https://github.com/user-attachments/assets/33384011-ee05-4548-bac3-88d2fc239e6e" />
+
 
 5. **Correlation Heatmap**: Shows positive links (green) in most states – with significance stars.  
    ![Correlation Heatmap](images/correlation_heatmap.png)
