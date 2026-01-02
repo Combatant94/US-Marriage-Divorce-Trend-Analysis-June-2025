@@ -1,6 +1,7 @@
 # US Marriage & Divorce Trends Analysis (CDC Data, 1990–2023)
 
-<img width="932" height="522" alt="Screenshot 2026-01-02 at 11 31 53" src="https://github.com/user-attachments/assets/e5b15b8a-8441-42bd-a457-7d584c856c04" />
+
+<img width="948" height="520" alt="Screenshot 2026-01-02 at 11 32 55" src="https://github.com/user-attachments/assets/1b357691-ed2f-4306-908a-d5b5cd814af2" />
 
 
 
