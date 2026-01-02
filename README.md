@@ -48,7 +48,8 @@ Here's a walkthrough of the dashboard in images:
    ![Full Dashboard](images/dashboard_overview.png)
 
 2. **National Trends Line Chart**: Shows declines over time – marriage (blue) always higher than divorce (black).  
-   ![Trends Line Chart](images/trends_line_chart.png)
+  <img width="994" height="261" alt="Screenshot 2026-01-02 at 11 36 27" src="https://github.com/user-attachments/assets/d8472655-8443-48dd-92a0-8bd5a8ad17db" />
+
 
 3. **State Maps**: Side-by-side for marriage (left) and divorce (right) in 2023 – darker colours mean higher rates.  
    ![State Maps](images/state_maps.png)
